@@ -1,0 +1,5 @@
+# executáveis e arquivos de compilação
+cifra_cesar
+*.o
+*.out
+*.exe
