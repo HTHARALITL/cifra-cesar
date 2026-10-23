@@ -32,4 +32,3 @@ Texto: `Ola Mundo`, deslocamento: `3` → `Rod Pxqgr`
 
 - Funciona em Linux, macOS e Windows (a limpeza de tela usa `clear` ou `cls` conforme o sistema).
 - Letras acentuadas não são cifradas, apenas as letras de A a Z.
-# cifra-cesar
